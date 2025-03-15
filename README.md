@@ -1,3 +1,3 @@
-# zagogulina.oberon-multi-ui
+# zagogulina.oberon-multi-interface
 
 targets: gui, tui, cli, api
